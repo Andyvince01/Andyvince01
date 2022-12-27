@@ -1,6 +1,5 @@
-<div>
-  <img align = "left" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" width="100" height="50"/>
-  <img align="right" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" width="100" height="50"/>
+<div align="left">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" width="100" height="50"/>
 </div>
 
 ---
