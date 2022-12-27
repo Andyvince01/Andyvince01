@@ -5,5 +5,5 @@
 - 📫 andy.vince2001@gmail.cokm
 
 <div align="center">
-  <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 50 />
+  <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 150 />
 </div>
