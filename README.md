@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" />
+  <img src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 50/>
 </div>
 
 ---
