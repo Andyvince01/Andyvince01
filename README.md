@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-<img align="top" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 150 width = 150/>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 150 width = 150/>
 
 - 👋 Hi, I’m `@Andyvince01`
 
@@ -19,5 +19,5 @@
 </div>
 
 <div align="center">
-  <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 60 />
+  <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 90 />
 </div>
