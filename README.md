@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 150 width = 150/>
+<img align="top" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 150 width = 150/>
 
 - 👋 Hi, I’m `@Andyvince01`
 
