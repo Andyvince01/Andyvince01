@@ -1,5 +1,7 @@
 ### :man_technologist: About Me :
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 - 👋 Hi, I’m @Andyvince01
 - 🌱 I'm currently a postgraduate student in Artificial Intelligence and Intelligent Robotics (University of Salerno)
 - 📫 andy.vince2001@gmail.cokm
@@ -7,15 +9,6 @@
 <div align="center">
   <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 150 />
 </div>
-
-**Talking about Personal Stuffs:**
-
-- <img width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
-
-</br>
 
 📈 **My GitHub Stats:**
 
