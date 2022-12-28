@@ -2,11 +2,11 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 150 width = 150/>
 
-<p>- 👋 Hi, I’m `@Andyvince01`</p>
+- 👋 Hi, I’m `@Andyvince01`
 
-<p>- 🌱 I'm currently a postgraduate student in Artificial Intelligence and Intelligent Robotics (University of Salerno)</p>
+- 🌱 I'm currently a postgraduate student in Artificial Intelligence and Intelligent Robotics (University of Salerno)
 
-<p>- 📫 <a href= "mailto:andy.vince2001@gmail.com">`andy.vince2001@gmail.com`</a></p>
+- 📫 <a href= "mailto:andy.vince2001@gmail.com">`andy.vince2001@gmail.com`</a>
 
 ### 📈 My GitHub Stats:
 
