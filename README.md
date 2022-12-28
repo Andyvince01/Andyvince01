@@ -1,9 +1,11 @@
 ### :man_technologist: About Me :
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 150 width = 150/>
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 105 width = 105/>
 
 - 👋 Hi, I’m `@Andyvince01`
+
 - 🌱 I'm currently a postgraduate student in Artificial Intelligence and Intelligent Robotics (University of Salerno)
+
 - 📫 <a href= "mailto:andy.vince2001@gmail.com">`andy.vince2001@gmail.com`</a>
 
 ### 📈 My GitHub Stats:
