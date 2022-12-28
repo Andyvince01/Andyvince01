@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-<img align="right" style="vertical-align: top;" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 150/>
+<img align="right" style="vertical-align: top;" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height = 300/>
 
 - 👋 Hi, I’m @Andyvince01
 - 🌱 I'm currently a postgraduate student in Artificial Intelligence and Intelligent Robotics (University of Salerno)
