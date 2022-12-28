@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" height="240" />
 
 - 👋 Hi, I’m @Andyvince01
 - 🌱 I'm currently a postgraduate student in Artificial Intelligence and Intelligent Robotics (University of Salerno)
@@ -14,5 +14,5 @@
 </p>
 
 <div align="center">
-  <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 150 />
+  <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 60 />
 </div>
