@@ -8,6 +8,15 @@
   <img  src="https://www.1law.com/wp-content/uploads/2016/08/docubot.gif" height = 150 />
 </div>
 
+**Talking about Personal Stuffs:**
+
+- <img width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: gapur.kassym@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://gkassym.netlify.app/Resume.pdf).
+
+</br>
+
 📈 **My GitHub Stats:**
 
 <p>
