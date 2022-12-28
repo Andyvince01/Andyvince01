@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m `@Andyvince01`
 - 🌱 I'm currently a postgraduate student in Artificial Intelligence and Intelligent Robotics (University of Salerno)
-- 📫 andy.vince2001@gmail.cokm
+- 📫 'andy.vince2001@gmail.cokm'
 
 ### 📈 My GitHub Stats:
 
