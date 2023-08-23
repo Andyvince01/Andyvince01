@@ -14,6 +14,8 @@
 
   <img height="162em" src="https://github-readme-stats.vercel.app/api?username=Andyvince01&show_icons=true&hide_border=false&count_private=true&include_all_commits=true" />
   
+  <img align = "right" height="162em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyvince01&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+
 </div>
 
 <div align="center">
