@@ -12,7 +12,7 @@ I am currently working on the following topics:
 - **Generative Adversarial Networks**
 - **Diffusion Models**
 
-<a href="https://github.com/Andyvince01?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat&logo=RSS&logoColor=white"></a>
+<a href="https://github.com/Andyvince01?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--ee802f?style=flat&logo=RSS&logoColor=white"></a>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Andyvince01.Andyvince01)
 <!--<img alt="GitHub hits" src="https://img.shields.io/github/last-commit/Andyvince01/Andyvince01?label=profile%20updated&style=flat&color=cfa81c">
 -->
