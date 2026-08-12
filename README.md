@@ -10,7 +10,7 @@
 
 <a href="mailto:anricciardi@unisa.it"><img src="https://img.shields.io/badge/Email-7C1D1D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/andrea-vincenzo-ricciardi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
+<a href="https://scholar.google.com/citations?user=0M-CjyYAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
 <a href="https://orcid.org/0009-0004-9476-8420"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
 <a href="https://github.com/Andyvince01?tab=followers"><img src="https://img.shields.io/github/followers/Andyvince01?style=for-the-badge&color=333&label=Followers&logo=github&logoColor=white"/></a>
 
