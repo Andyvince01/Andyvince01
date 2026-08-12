@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:5c0f1a,100:922b3e&height=220&section=header&text=Andrea%20Vincenzo%20Ricciardi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Vision%20and%20Deep%20Learning%20Engineer&descAlignY=55&descSize=18&descColor=f7dede" width="100%"/>
 
 <a href="https://github.com/Andyvince01">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A52A3C&center=true&vCenter=true&width=650&lines=PhD+Candidate+%40+University+of+Salerno+%F0%9F%8E%93;AI+Software+Engineer+%40+A.I.+Tech+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+Agentic+AI;Real-time+inference+from+cloud+to+edge+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A52A3C&center=true&vCenter=true&width=650&lines=PhD+Student+%40+University+of+Salerno+%F0%9F%8E%93;AI+Software+Engineer+%40+A.I.+Tech+%F0%9F%A4%96;Computer+Vision+%7C+Deep+Learning+%7C+Agentic+AI;Real-time+inference+from+cloud+to+edge+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
