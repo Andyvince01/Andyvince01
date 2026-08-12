@@ -61,39 +61,22 @@ My work spans **zero-shot & foundation-model-based vision**, **agentic AI for vi
 
 ### 🔬 Research Highlights
 
-- 📓 **YOLO-Juice** · *Engineering Applications of AI (Q1)*
-  Joint underwater image enhancement and multi-scale fish detection.
+- 🕸️ **Video-Analysis-as-a-Service** · *ICPR 2026*
+  Foundation models for real-time multi-event detection in video streams.
 
 - 📦 **MIVIA-IWDD Dataset** · *Image and Vision Computing (Q1)*
   First public benchmark for illegal waste dumping detection — 500+ hours of annotated footage.
 
-- 🎤 **Illegal Waste Dumping Detection** · *WACV 2026*
+- 🐟 **YOLO-Juice** · *Engineering Applications of AI (Q1)*
+  Joint underwater image enhancement and multi-scale fish detection.
+
+- 🗑️ **Illegal Waste Dumping Detection** · *WACV 2026*
   Cross-domain waste detection across terrestrial and aquatic environments.
 
-- 🎤 **Video-Analysis-as-a-Service** · *ICPR 2026*
-  Foundation models for real-time multi-event detection in video streams.
-
-- 📓 **Parvelous** · *Neural Computing and Applications (Q1)*
+- 🧑‍🤝‍🧑 **Parvelous** · *Neural Computing and Applications (Q1)*
   Pedestrian attribute recognition via a multi-task vision encoder.
 
-*→ Full list of 8 publications on [Google Scholar](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Andyvince01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andyvince01&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andyvince01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-### 🐍 Contribution Graph
+*→ Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=0M-CjyYAAAAJ)*
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Andyvince01/Andyvince01/output/github-contribution-grid-snake.svg" alt="snake animation"/>
